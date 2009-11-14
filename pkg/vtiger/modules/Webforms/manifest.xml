@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+<module>
+<exporttime>2009-02-21 11:30:12</exporttime>
+<name>Webforms</name>
+<label>Webforms</label>
+<type>extension</type>
+<version>0.1</version>
+<dependencies>
+<vtiger_version>5.1.0</vtiger_version>
+</dependencies>
+<tables>
+</tables>
+</module>
