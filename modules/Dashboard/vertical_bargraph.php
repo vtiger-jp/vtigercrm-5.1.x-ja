@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /*********************************************************************************
 ** The contents of this file are subject to the vtiger CRM Public License Version 1.0
@@ -43,7 +43,12 @@ function vertical_graph($referdata,$refer_code,$width,$height,$left,$right,$top,
 		else
 			$name=$datax[$i];
 		$pos = substr_count($name," ");
-		$alts[]=htmlentities($name)."=%d";
+// JFV : prevent utf-8 char garbled
+		global $default_charset;
+		$alts[]=htmlentities($name,ENT_QUOTES,$default_charset)."=%d";
+//		$alts[]=htmlentities($name)."=%d";
+// JFV END
+
 //If the datax value of a string is greater, adding '\n' to it so that it'll cme inh 2nd line
 		 if(strlen($name)>=15)
                         $name=substr($name, 0, 15);
