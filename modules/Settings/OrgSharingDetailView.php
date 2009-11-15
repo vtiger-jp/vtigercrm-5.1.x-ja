@@ -38,7 +38,16 @@ foreach($defSharingPermissionData as $tab_id => $def_perr)
 	$access_privileges[] = $entity_name;
 	$access_privileges[] = $entity_perr;
 	if($entity_perr != 'Private')	
+// JFV - hardcorded str_replace issue
+	{	
+		global $lang_crm;
+		if($lang_crm == 'ja'){
+		$access_privileges[] = $mod_strings['LBL_USR_CAN_ACCESS'] .str_replace('公開：','',$mod_strings[$entity_perr]). $mod_strings['LBL_USR_OTHERS'] . $app_strings[$entity_name];		
+		}else{
 		$access_privileges[] = $mod_strings['LBL_USR_CAN_ACCESS'] .str_replace('Public:','',$mod_strings[$entity_perr]). $mod_strings['LBL_USR_OTHERS'] . $app_strings[$entity_name];
+		}
+	}
+// JFV END		
 	else
 	        $access_privileges[] = $mod_strings['LBL_USR_CANNOT_ACCESS'] . $app_strings[$entity_name];
 	$row++;
