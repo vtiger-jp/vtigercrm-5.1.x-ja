@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<module>
+	<type>language</type>
+	<name>Japanese</name>
+	<label>Japanese ( 日本語 )</label>
+	<prefix>ja</prefix>
+	<dependencies>
+		<vtiger_version>5.1.0</vtiger_version>
+	</dependencies>
+	<license>
+		<inline><![CDATA[This is under vtiger Public License ]]></inline>
+	</license>
+</module>
+
