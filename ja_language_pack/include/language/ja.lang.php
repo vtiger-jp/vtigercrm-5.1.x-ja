@@ -1210,7 +1210,7 @@ $app_strings = array (
 'LBL_ACCOUNT_HIERARCHY' => '顧客企業系列', 
 
 //Prod Bundles
-'LBL_NO_SUB_PRODUCTS'=>'$$$バンドルではありません',
+'LBL_NO_SUB_PRODUCTS'=>'バンドルなし',
 
 //Custom Fields support for Calendar
 'LBL_ACTIVITY_TYPE'=>'活動タイプ',

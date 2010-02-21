@@ -414,7 +414,7 @@ $mod_strings = Array(
 //this is for task
 'End date'=>'終了日',
 'LBL_SET_DATE'=>'日付の設定..',
-'Recurrence'=>'$$$Recurrence',
+'Recurrence'=>'周期',
 
 //added to send invitation mail Subject.
 'INVITATION'=>' 招待 ',

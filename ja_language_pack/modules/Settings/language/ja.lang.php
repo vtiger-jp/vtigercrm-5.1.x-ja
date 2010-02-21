@@ -1144,7 +1144,7 @@ $mod_strings = Array(
 'VTLIB_LBL_EXISTS'=>'$$$存在',
 'VTLIB_LBL_NOT_PRESENT'=>'$$$存在なし',
 'VTLIB_LBL_INST_VERSION'=>'インストール済みバージョン',
-'VTLIB_LBL_MATCHES_PACKAGE_VERSION'=>'$$$がパッケージ バージョンに一致',
+'VTLIB_LBL_MATCHES_PACKAGE_VERSION'=>'がパッケージ バージョンと同じです',
 'VTLIB_LBL_CANNOT_UPGRADE'=>'アップグレード不能。',
 // END
 
