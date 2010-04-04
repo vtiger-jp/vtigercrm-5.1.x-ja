@@ -168,14 +168,14 @@ $mod_strings = Array(
 'LBL_HERE'=>' [ リンク ] ',
 
 // Added after 5.0.4 GA
-'LBL_FULL_EMAIL_VIEW'=>'Full Email View', 
-'LBL_MESSAGE'=>'Message', 
-'LBL_MESSAGES'=>'Messages',
+'LBL_FULL_EMAIL_VIEW'=>'全面表示', 
+'LBL_MESSAGE'=>'メッセージ', 
+'LBL_MESSAGES'=>'メッセージ',
 
-'LBL_NO_ATTACHMENTS'=>'No files to download', 
-'LBL_THERE_ARE'=>'There are ', 
-'LBL_ATTACHMENTS_TO_CHOOSE'=>' attachment(s) to choose from',
-'LBL_ATTACHMENTS'=>'Attachments', 
+'LBL_NO_ATTACHMENTS'=>'ダウンロードするファイルがありません', 
+'LBL_THERE_ARE'=>'&nbsp; ', 
+'LBL_ATTACHMENTS_TO_CHOOSE'=>'  個の添付ファイルがあります',
+'LBL_ATTACHMENTS'=>'添付ファイル', 
 
 );
 ?>
