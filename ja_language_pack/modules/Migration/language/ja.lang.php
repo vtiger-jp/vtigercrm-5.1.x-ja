@@ -10,7 +10,7 @@
  * The Initial Developer of the Original Code is SugarCRM, Inc.
  * Portions created by SugarCRM are Copyright (C) SugarCRM, Inc.;
  * All Rights Reserved.
- * Contributor(s): Hideyuki Hokawa <hhokawa@gmail.com>.
+ * Contributor(s): H.Hokawa <hhokawa @nospam@ gmail.com>.
  ********************************************************************************/
 
 

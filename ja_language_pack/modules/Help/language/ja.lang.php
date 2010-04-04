@@ -10,7 +10,7 @@
  * The Initial Developer of the Original Code is SugarCRM, Inc.
  * Portions created by SugarCRM are Copyright (C) SugarCRM, Inc.;
  * All Rights Reserved.
- * Contributor(s): Hideyuki Hokawa <hhokawa@gmail.com>.
+ * Contributor(s): H.Hokawa <hhokawa @nospam@ gmail.com>.
  ********************************************************************************/
 /*********************************************************************************
  * $Header: /advent/projects/wesat/vtiger_crm/sugarcrm/modules/Help/language/en_us.lang.php,v 1.3 2005/01/25 06:05:36 jack Exp $
