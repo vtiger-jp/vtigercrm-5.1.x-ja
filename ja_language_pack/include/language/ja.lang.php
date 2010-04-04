@@ -550,7 +550,7 @@ $app_strings = array (
 'LBL_TAX_VALUE' => '税額',
 'COVERED_PERCENTAGE' => '(%)',
 'LBL_TAG_CLOUD' => 'Tag Cloud',
-'LBL_FOR' => '$$$for',
+'LBL_FOR' => '⇒',
 'LBL_PO_STATUS' => '購買発注ステータス',
 'LBL_SO_STATUS' => '販売受注ステータス',
 'LBL_INVOICE_STATUS' => '請求書ステータス',
@@ -781,7 +781,7 @@ $app_strings = array (
 'GROUPNAME_CANNNOT_BE_NONE' => 'グループ名が必要です',
 'GROUP_SHOULDHAVE_ONEMEMBER_INFO' => 'グループには少なくとも一つのメンバーが必要です グループにメンバーを選択してください',
 'MAP_DELETED_INFO' => 'このマップは削除されました。 このマップを再び使用することはできません',
-'MUSTHAVE_ONE_REQUIREDFIELD' => '一つの必須フィールドを選択する必要があります\n',
+'MUSTHAVE_ONE_REQUIREDFIELD' => '一つの必須フィールドを選択する必要があります\n',
 'COLUMNS_CANNOT_BE_DUPLICATED' => 'カラムの重複は認められません',
 'SPECIFY_ROLE_INFO' => '既存の役割のユーザーを切り替える先の役割を指定します',
 'FOLDERNAME_CANNOT_BE_EMPTY' => 'フォルダ名は空にできません',
@@ -813,7 +813,7 @@ $app_strings = array (
 
 //Added for 5.0.3
 'MSG_DEAR'=>'あて先：',
-'MSG_REGARDING'=>'$$$対象：',
+'MSG_REGARDING'=>'お知らせ：',
 'MSG_UPDATION'=>'更新 -',
 'MSG_THE'=>' ',
 'MSG_HAS_BEEN_UPDATED'=>'は更新されました',
