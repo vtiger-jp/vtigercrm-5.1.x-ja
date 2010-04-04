@@ -17,6 +17,8 @@ $mod_strings = Array(
 'LBL_EMPTY_RECYCLEBIN'=>'ごみ箱を空にする',
 'LNK_RESTORE'=>'復元',
 'LBL_NO_PERMITTED_MODULES'=>'利用できる許可済みモジュールがありません',
+'Recycle Bin' => 'ごみ箱',
+
 );
 
 ?>

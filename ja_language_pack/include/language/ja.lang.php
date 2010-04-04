@@ -20,6 +20,10 @@
  * Contributor(s): H.Hokawa <hhokawa @nospam@ gmail.com>, k.kanetaka <kane01jp @nospam@ yahoo.co.jp>..
  ********************************************************************************/
 $app_strings = array (
+'Service Contracts' => 'サービス契約',
+'ServiceContract' => 'サービス契約',
+'Services' => 'サービス',
+
 'LBL_BROWSER_TITLE' => 'vtiger CRM 5 - 業務用オープンソース CRM',
 'LBL_MY_ACCOUNT' => '私の顧客企業',
 'LBL_MY_PREFERENCES' => '私の設定',
