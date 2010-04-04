@@ -25,7 +25,7 @@ $mod_strings = Array(
 //Added fields for uploads (attach files)
 'LBL_ATTACH_FILE'=>'ファイルの添付',
 'LBL_ATTACH'=>'添付',
-'LBL_CANCEL'=>'キャンセル',
+'LBL_CANCEL'=>'取消',
 'LBL_STEP_SELECT_FILE'=>'ステップ 1 ： ファイルの選択',
 'LBL_BROWSE_FILES'=>'[参照] ボタンを押して、添付するファイルを選択します',
 'LBL_DESCRIPTION'=>'ステップ 2 ： 説明を入力します',

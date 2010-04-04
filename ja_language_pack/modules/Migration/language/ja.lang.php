@@ -65,7 +65,7 @@ $mod_strings = Array(
 'LBL_SERVER_PATH_DESC'=>'サーバーのMySQLパスは <b>/home/5beta/vtigerCRM5_beta/mysql/bin</b> または <b>c:\Program Files\mysql\bin</b> のように指定します',
 'LBL_MYSQL_SERVER_PATH'=>'MySQL サーバー パス： ',
 'LBL_MIGRATE_BUTTON'=>'マイグレート',
-'LBL_CANCEL_BUTTON'=>'キャンセル',
+'LBL_CANCEL_BUTTON'=>'取消',
 'LBL_UPGRADE_FROM_VTIGER_5X'=>'データベースを vtiger CRM 5.x から次期バージョンにアップグレード',
 'LBL_PATCH_OR_MIGRATION'=>'ソース データベースのバージョン (パッチ アップデート または マイグレーション) を指定する必要があります',
 //Added for java script alerts

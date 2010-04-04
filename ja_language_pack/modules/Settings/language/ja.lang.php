@@ -948,7 +948,7 @@ $mod_strings = Array(
 
 'LBL_GENERAL_FIELDS'=>'一般フィールド',
 
-'LBL_CANCEL_BUTTON'=>'キャンセル',
+'LBL_CANCEL_BUTTON'=>'取消',
 
 //Added fields for Inventory Number labels
 'LBL_CUSTOMIZE_INVENTORY_NUMBER'=>'在庫シーケンスのカスタマイズ',
@@ -1108,7 +1108,7 @@ $mod_strings = Array(
 'ASTERISK_PORT_TITLE'=>'Asterisk コール マネージャ API が Asterisk に接続可能なポート ( デフォルトは 5038 )',
 'ASTERISK_USERNAME_TITLE'=>'Asterisk ユーザー名 ( 通常は管理者ユーザー名 )',
 'ASTERISK_PASSWORD_TITLE'=>'Asterisk ユーザーのパスワード',
-'LBL_CANCEL_BUTTON'=>'キャンセル',
+'LBL_CANCEL_BUTTON'=>'取消',
 'ASTERISK_VERSION' => 'Asterisk バージョン',
 'ASTERISK_VERSION_TITLE'=>'お使いの Asterisk バージョンを選択します。不明な場合は 1.4 のままにします。',
 'ASTERISK_CONFIGURATION'=>'Asterisk 構成',
